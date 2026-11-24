@@ -1,0 +1,6 @@
+{
+  "name": "Abhinav Institute of Technology & Management (AITM)",
+  "description": "Official Training Institute Portal & Student Management System for Abhinav Institute of Technology & Management (AITM), featuring vocational programs, NAPS, NATS, course access management, and student learning portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
